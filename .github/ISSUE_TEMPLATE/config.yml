@@ -3,5 +3,5 @@ contact_links:
     url: https://github.community/
     about: Please ask and answer questions here.
   - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/x
+    url: mailto:me@zaanposni.com
     about: Please report security vulnerabilities here.
